@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Augusto Santos
 
-- 🌱 Estudando HTML, CSS e JavaScript
-- 😄 Pronouns: ele/dele
+- 😄 Olá, me chamo Augusto tenho 22 anos e iniciei no mundo da programação no ano de 2022. Desde minha infância sempre gostei de tecnologias e da suas evoluções com o passar dos anos, mas nunca tinha iniciado por medo, por achar que só poderia programar quem fosse muito inteligente em matemática. Mas então perdi o medo e decidir entrar na area. Em breve espero conseguir minha oportunidade e realizar meus sonhos. 
+
 
 <div align="center">
   <a href="https://github.com/Guliima">
